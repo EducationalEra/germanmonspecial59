@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -14,34 +14,32 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
-Кореспонденція. <br>
+Види кореспонденції.<br>
+Чинники здорового  способу життя.<br>
 Літературні жанри. <br>
-Обладнання та послуги бібіліотеки. <br>
+Приміщення та послуги бібіліотеки. <br>
 Періодичні видання. <br>
 Музичні жанри / інструменти. <br>
 Географічні поняття. <br>
 Країни. <br>
 Національності.<br>
 Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Приміщення школи.<br>
+Система оцінювання.<br>
+Правила поведінки</td>
 <td width="50%" style="vertical-align:top !important;">
+<b>Іменник:</b><br>
+власні іменники.<br>
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
-<b>Займенник:</b><br>
-неозначені.<br>
-<b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
-<b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+Plusquamperfekt.<br>
+<b>Прислівник: </b> <br>
+займенникові прислівники.<br>
+<b>Прийменник:</b><br>
+прийменники з Genitiv: außerhalb, innerhalb, unweit, während, infolge, wegen, trotz.<br>
+<b>Речення:</b><br>
+означальні підрядні речення (der, die, das). Підрядні часу (nachdem)
 </td>
-<td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення знань, навичок і вмінь набутих у попередні роки навчання</td>
             </tr>
 </table>
 
